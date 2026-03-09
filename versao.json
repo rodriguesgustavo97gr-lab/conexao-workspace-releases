@@ -1,0 +1,8 @@
+{
+    "version": "1.0.1",
+    "url": "https://github.com/rodriguesgustavo97gr-lab/conexao-workspace-releases/releases/download/v1.0.1/Conexao_Workspace.exe",
+    "hash_sha256": "9313c53173d20afc53f211a5da747605c81343044dadc49af4b6e26b455ebe73",
+    "release_date": "2026-03-09 16:15:21",
+    "release_notes": "Correção de pequenos bugs no módulo FlowID e melhorias de performance.",
+    "mandatory": false
+}
